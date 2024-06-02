@@ -1,2 +1,4 @@
-# web-335
-Bellevue University Web Development - WEB 335
+# WEB 335 Introduction to NoSQL
+## Contributors
+* Richard Krasso
+* Meher Salim
