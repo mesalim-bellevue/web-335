@@ -1,0 +1,64 @@
+[
+  {
+    "customer": {
+      "_id": "c001",
+      "firstName": "Brandi",
+      "lastNmae": "Sanderson",
+      "orders": [
+        {
+          "burger": {
+            "_id": "bur01",
+            "burgerName": "Cheesebomb",
+            "price": 14.99
+          }
+        },
+        {
+          "burger": {
+            "_id": "bur02",
+            "burgerName": "Veggie Delight",
+            "price": 9.99
+          }
+        }
+      ]
+    }
+  },
+  {
+    "customer": {
+      "_id": "c002",
+      "firstName": "Grace",
+      "lastNmae": "Hugo",
+      "orders": [
+        {
+          "burger": {
+            "_id": "bur03",
+            "burgerName": "Bun Kabob",
+            "price": 16.99
+          }    
+        },
+        {
+          "burger": {
+            "_id": "bur01",
+            "burgerName": "Cheesebomb",
+            "price": 14.99
+          }
+        }
+      ]
+    }
+  },
+  {
+    "customer": {
+      "_id": "c003",
+      "firstName": "Pen",
+      "lastNmae": "Salvania",
+      "orders": [
+        {
+          "burger": {
+            "_id": "bur09",
+            "burgerName": "Cajun Shrimp",
+            "price": 19.99
+          }
+        }
+      ]
+    }
+  }
+]
