@@ -1,0 +1,77 @@
+{
+  "viewers": [
+    {
+      "_id": "account1",
+      "firstName": "Bluey",
+      "lastName": "Dog",
+      "ratings": [
+        {
+          "_id": "rating1",
+          "ratingScore": 4,
+          "movieId": "movie1"
+        },
+        {
+          "_id": "rating2",
+          "ratingScore": 5,
+          "movieId": "movie2"
+        }
+      ]
+    },
+    {
+      "_id": "account2",
+      "firstName": "Wednesday",
+      "lastName": "Vamp",
+      "ratings": [
+        {
+          "_id": "rating3",
+          "ratingScore": 2,
+          "movieId": "movie1"
+        }
+      ]
+    },
+    {
+      "_id": "account3",
+      "firstName": "Lady",
+      "lastName": "Noir",
+      "ratings": [
+        {
+          "_id": "rating4",
+          "ratingScore": 4,
+          "movieId": "movie5"
+        },
+        {
+          "_id": "rating5",
+          "ratingScore": 1,
+          "movieId": "movie2"
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "-_id": "movie1",
+      "movieName": "Taylor Swift Eras Tour",
+      "genre": "Documentary"
+    },
+    {
+      "-_id": "movie2",
+      "movieName": "Avengers: Endgame",
+      "genre": "Action"
+    },
+    {
+      "-_id": "movie3",
+      "movieName": "Badger",
+      "genre": "Horror"
+    },
+    {
+      "-_id": "movie4",
+      "movieName": "Fantastic Sourcery",
+      "genre": "Fantasy"
+    },
+    {
+      "-_id": "movie5",
+      "movieName": "How to win the wrong man in 7 days",
+      "genre": "Romantic Comedy"
+    }
+  ]
+}
